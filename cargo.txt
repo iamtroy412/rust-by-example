@@ -1,0 +1,9 @@
+There's some good basic info about `cargo` on the site
+
+https://doc.rust-lang.org/rust-by-example/cargo.html
+
+Nothing that makes a whole lot of sense to type out examples for.
+
+There is also the cargo book!
+
+https://doc.rust-lang.org/cargo/
